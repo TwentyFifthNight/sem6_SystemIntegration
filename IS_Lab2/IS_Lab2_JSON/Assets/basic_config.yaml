@@ -1,0 +1,10 @@
+paths:
+  source_folder: 'Assets/'
+  json_source_file: 'data.json'
+  json_destination_file: 'data_mod2.json'
+  yaml_destination_file: 'data_ymod2.yaml'
+  xml_destination_file: 'data_x.xml'
+  xml_source_file: 'data_xsource.xml'
+  json_destination_from_xml: 'jsonFromXML.json'
+operations: [ 'someStats', 'serialize', 'convertJsonToYaml' ]
+serializationSource: 'object'
