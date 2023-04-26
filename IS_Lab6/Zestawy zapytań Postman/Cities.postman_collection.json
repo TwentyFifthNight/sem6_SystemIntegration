@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "d2c4185b-0750-4799-982f-b81b2866517a",
+		"name": "Cities",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26449669"
+	},
+	"item": [
+		{
+			"name": "daneWybranegoMiasta",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/IS_LAB6_REST/cities/read/10",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"IS_LAB6_REST",
+						"cities",
+						"read",
+						"10"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

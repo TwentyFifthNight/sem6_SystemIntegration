@@ -1,0 +1,265 @@
+{
+	"info": {
+		"_postman_id": "3c5ac52e-744b-4a1d-b601-c68ad337ec5b",
+		"name": "Countries",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26449669"
+	},
+	"item": [
+		{
+			"name": "daneWybranegoPaństwa",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/IS_LAB6_REST/countries/read/POL",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"IS_LAB6_REST",
+						"countries",
+						"read",
+						"POL"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "wstawNowePaństwo",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "code",
+							"value": "ULD",
+							"type": "text"
+						},
+						{
+							"key": "name",
+							"value": "Poland",
+							"type": "text"
+						},
+						{
+							"key": "continent",
+							"value": "Europe",
+							"type": "text"
+						},
+						{
+							"key": "region",
+							"value": "East Europe",
+							"type": "text"
+						},
+						{
+							"key": "surfaceArea",
+							"value": "322.57",
+							"type": "text"
+						},
+						{
+							"key": "indepYear",
+							"value": "1918",
+							"type": "text"
+						},
+						{
+							"key": "population",
+							"value": "37750000",
+							"type": "text"
+						},
+						{
+							"key": "lifeExpectancy",
+							"value": "76.6",
+							"type": "text"
+						},
+						{
+							"key": "GNP",
+							"value": "1361.00",
+							"type": "text"
+						},
+						{
+							"key": "GNPOld",
+							"value": "1240.00",
+							"type": "text"
+						},
+						{
+							"key": "localName",
+							"value": "Poland",
+							"type": "text"
+						},
+						{
+							"key": "governmentForm",
+							"value": "Republic",
+							"type": "text"
+						},
+						{
+							"key": "headOfState",
+							"value": "Andrzej Duda",
+							"type": "text"
+						},
+						{
+							"key": "capital",
+							"value": "2928",
+							"type": "text"
+						},
+						{
+							"key": "code2",
+							"value": "PL",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/IS_LAB6_REST/countries/post",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"IS_LAB6_REST",
+						"countries",
+						"post"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "usuńPaństwo",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/IS_LAB6_REST/countries/delete/ULD",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"IS_LAB6_REST",
+						"countries",
+						"delete",
+						"ULD"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "zaktualizujPaństwo",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "code",
+							"value": "POL",
+							"type": "text"
+						},
+						{
+							"key": "name",
+							"value": "Polska",
+							"type": "text"
+						},
+						{
+							"key": "continent",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "region",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "surfaceArea",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "indepYear",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "population",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "lifeExpectancy",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "GNP",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "GNPOld",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "localName",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "governmentForm",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "headOfState",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "capital",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "code2",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/IS_LAB6_REST/countries/update",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"IS_LAB6_REST",
+						"countries",
+						"update"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

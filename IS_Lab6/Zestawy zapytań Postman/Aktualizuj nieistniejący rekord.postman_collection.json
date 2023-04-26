@@ -1,0 +1,144 @@
+{
+	"info": {
+		"_postman_id": "bd3bc8a8-e5d5-4982-b078-0c14f6a44154",
+		"name": "Aktualizuj nieistniejący rekord",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26449669"
+	},
+	"item": [
+		{
+			"name": "usuńRekord",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/IS_LAB6_REST/countries/delete/ULD",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"IS_LAB6_REST",
+						"countries",
+						"delete",
+						"ULD"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "zaktualizujPaństwo",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "code",
+							"value": "ULD",
+							"type": "text"
+						},
+						{
+							"key": "name",
+							"value": "Polska",
+							"type": "text"
+						},
+						{
+							"key": "continent",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "region",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "surfaceArea",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "indepYear",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "population",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "lifeExpectancy",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "GNP",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "GNPOld",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "localName",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "governmentForm",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "headOfState",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "capital",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "code2",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/IS_LAB6_REST/countries/update",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"IS_LAB6_REST",
+						"countries",
+						"update"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
