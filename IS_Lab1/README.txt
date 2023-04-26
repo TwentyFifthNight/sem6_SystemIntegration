@@ -1,2 +1,4 @@
 OS: Windows 10 Pro 64-bit
-Wersja .NET: .NET 6.0
+.NET version: .NET 6.0
+
+Extract Assets from zip before running
