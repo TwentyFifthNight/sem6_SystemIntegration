@@ -1,0 +1,14 @@
+C:\Users\damia\Desktop\Integracja8\IS8_Klient\IS8_Klient\bin\Debug\IS8_Klient.exe.config
+C:\Users\damia\Desktop\Integracja8\IS8_Klient\IS8_Klient\bin\Debug\IS8_Klient.exe
+C:\Users\damia\Desktop\Integracja8\IS8_Klient\IS8_Klient\bin\Debug\IS8_Klient.pdb
+C:\Users\damia\Desktop\Integracja8\IS8_Klient\IS8_Klient\obj\Debug\IS8_Klient.csproj.AssemblyReference.cache
+C:\Users\damia\Desktop\Integracja8\IS8_Klient\IS8_Klient\obj\Debug\IS8_Klient.csproj.SuggestedBindingRedirects.cache
+C:\Users\damia\Desktop\Integracja8\IS8_Klient\IS8_Klient\obj\Debug\IS8_Klient.Form1.resources
+C:\Users\damia\Desktop\Integracja8\IS8_Klient\IS8_Klient\obj\Debug\IS8_Klient.Properties.Resources.resources
+C:\Users\damia\Desktop\Integracja8\IS8_Klient\IS8_Klient\obj\Debug\IS8_Klient.csproj.GenerateResource.cache
+C:\Users\damia\Desktop\Integracja8\IS8_Klient\IS8_Klient\obj\Debug\IS8_Klient.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\Integracja8\IS8_Klient\IS8_Klient\obj\Debug\IS8_Klient.exe
+C:\Users\damia\Desktop\Integracja8\IS8_Klient\IS8_Klient\obj\Debug\IS8_Klient.pdb
+C:\Users\damia\Desktop\Integracja8\IS8_Klient\IS8_Klient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\damia\Desktop\Integracja8\IS8_Klient\IS8_Klient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\damia\Desktop\Integracja8\IS8_Klient\IS8_Klient\obj\Debug\IS8_Klient.csproj.CopyComplete
