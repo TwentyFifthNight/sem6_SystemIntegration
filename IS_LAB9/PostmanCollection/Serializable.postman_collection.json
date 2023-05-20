@@ -1,0 +1,91 @@
+{
+	"info": {
+		"_postman_id": "60874cc5-ad91-4147-8476-fc25a4e9150f",
+		"name": "Serializable",
+		"description": "Dopóki wykonuje się transakcja serializable  \nnie możemy modyfikować danych",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26449669"
+	},
+	"item": [
+		{
+			"name": "update-chris",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/IS_LAB9_TRANS/serializable/update-chris.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"IS_LAB9_TRANS",
+						"serializable",
+						"update-chris.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "read",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/IS_LAB9_TRANS/serializable/phantom-read.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"IS_LAB9_TRANS",
+						"serializable",
+						"phantom-read.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "insert-adam",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/IS_LAB9_TRANS/serializable/insert-adam.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"IS_LAB9_TRANS",
+						"serializable",
+						"insert-adam.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "select-adam",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/IS_LAB9_TRANS/serializable/select-adam.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"IS_LAB9_TRANS",
+						"serializable",
+						"select-adam.php"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
