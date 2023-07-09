@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IntegracjaSystemów8.props" />
+</Project>
