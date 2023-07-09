@@ -1,0 +1,129 @@
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\IS8_Klient\bin\Debug\IS8_Klient.exe.config
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\IS8_Klient\bin\Debug\IS8_Klient.exe
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\IS8_Klient\bin\Debug\IS8_Klient.pdb
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\IS8_Klient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\IS8_Klient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\IS8_Klient\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\IS8_Klient\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\IS8_Klient\obj\Debug\Client.Form1.resources
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\IS8_Klient\obj\Debug\IS8_Klient.Properties.Resources.resources
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\IS8_Klient\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\IS8_Klient\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\IS8_Klient\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\IS8_Klient\obj\Debug\IS8_Klient.exe
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\IS8_Klient\obj\Debug\IS8_Klient.pdb
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\Client\obj\Debug\Client.Form1.resources
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\Client\obj\Debug\IS8_Klient.Properties.Resources.resources
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\Client\obj\Debug\IS8_Klient.exe
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\Client\obj\Debug\IS8_Klient.pdb
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\Client\bin\Debug\IS8_Klient.exe.config
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\Client\bin\Debug\IS8_Klient.exe
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\Client\bin\Debug\IS8_Klient.pdb
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt_Updated\Klient\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt\Klient\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt\Klient\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt\Klient\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt\Klient\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt\Klient\Client\obj\Debug\Client.Form1.resources
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt\Klient\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt\Klient\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt\Klient\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt\Klient\Client\bin\Debug\Client.exe.config
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt\Klient\Client\bin\Debug\Client.exe
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt\Klient\Client\bin\Debug\Client.pdb
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt\Klient\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt\Klient\Client\obj\Debug\Client.exe
+C:\Users\Damian\Desktop\Integracja Projekt\Integracja_projekt\Klient\Client\obj\Debug\Client.pdb
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Integracja_projekt\Klient\Client\bin\Debug\Client.exe.config
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Integracja_projekt\Klient\Client\bin\Debug\Client.exe
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Integracja_projekt\Klient\Client\bin\Debug\Client.pdb
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Integracja_projekt\Klient\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Integracja_projekt\Klient\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Integracja_projekt\Klient\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Integracja_projekt\Klient\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Integracja_projekt\Klient\Client\obj\Debug\Client.Form1.resources
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Integracja_projekt\Klient\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Integracja_projekt\Klient\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Integracja_projekt\Klient\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Integracja_projekt\Klient\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Integracja_projekt\Klient\Client\obj\Debug\Client.exe
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Integracja_projekt\Klient\Client\obj\Debug\Client.pdb
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.3\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.3\Client\Client\bin\Debug\Client.exe
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.3\Client\Client\bin\Debug\Client.pdb
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.3\Client\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.3\Client\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.3\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.3\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.3\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.3\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.3\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.3\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.3\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.3\Client\Client\obj\Debug\Client.exe
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.3\Client\Client\obj\Debug\Client.pdb
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.5\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.5\Client\Client\bin\Debug\Client.exe
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.5\Client\Client\bin\Debug\Client.pdb
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.5\Client\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.5\Client\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.5\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.5\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.5\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.5\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.5\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.5\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.5\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.5\Client\Client\obj\Debug\Client.exe
+C:\Users\Damian\Desktop\Integracja Projekt v1.3\Projekt v1.5\Client\Client\obj\Debug\Client.pdb
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\obj\Debug\Client.exe
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\obj\Debug\Client.pdb
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\bin\Debug\Client.exe
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\bin\Debug\Client.pdb
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\bin\Debug\TestApplication.exe
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\bin\Debug\TestControl.dll
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.6\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.7\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.7\Client\Client\bin\Debug\Client.exe
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.7\Client\Client\bin\Debug\Client.pdb
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.7\Client\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.7\Client\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.7\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.7\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.7\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.7\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.7\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.7\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.7\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.7\Client\Client\obj\Debug\Client.exe
+C:\Users\Damian\Desktop\Integracja Projekt v1.7\Projekt v1.7\Client\Client\obj\Debug\Client.pdb
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\bin\Debug\Client.exe
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\bin\Debug\Client.pdb
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\bin\Debug\TestControl.dll
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\obj\Debug\Client.exe
+C:\Users\Damian\Desktop\Projekt v1.7 Final\Kod źródłowy\Client\Client\obj\Debug\Client.pdb
