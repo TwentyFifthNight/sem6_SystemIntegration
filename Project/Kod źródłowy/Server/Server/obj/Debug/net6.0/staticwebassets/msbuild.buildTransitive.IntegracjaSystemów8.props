@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\IntegracjaSystemów8.props" />
-</Project>
